@@ -20,7 +20,7 @@
 - ### [Aztec - Joe Andrews (CPO) and Zac Williamson (CTO)](https://www.youtube.com/watch?v=NyBwdcIMT0M)
   - (https://www.youtube.com/watch?v=NyBwdcIMT0M)
 
-- ### Privacy on blockchains and future of rollups | Joe from Aztec
+- ### [Privacy on blockchains and future of rollups | Joe from Aztec](https://www.youtube.com/watch?v=3ZxyHTlkH9E)
   - ([https://www.youtube.com/watch?v=3ZxyHTlkH9E](https://www.youtube.com/watch?v=3ZxyHTlkH9E))
 
 ### Install Discord 
