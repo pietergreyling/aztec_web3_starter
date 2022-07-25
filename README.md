@@ -2,7 +2,7 @@
 
 ---
 
-## Begin Here
+## Prerequisites: Begin Here
 
 ### Read the Aztec Documentation
 
@@ -12,6 +12,10 @@
 - #### [The Privacy Layer for Web3](https://aztec.network/)
     ([https://aztec.network/](https://docs.aztec.network/))
 
+### Watch these videos to provide background information
+
+
+
 ### Install Discord 
 Discord will help you to communicate with the Aztec Network Developer Relations Engineers.
 
@@ -20,7 +24,10 @@ Discord will help you to communicate with the Aztec Network Developer Relations 
 - #### [Download Discord](https://discord.com/download)
     (https://discord.com/download)
 
-### Set up a MetaMask Wallet (Other wallets can be used)
+### How to set up a MetaMask Wallet and develop with the Goerli testnet
+
+- #### [How to set up an Ethereum wallet on MetaMask](https://codehs.com/tutorial/jkeesh/how-to-set-up-an-ethereum-wallet-on-metamask)
+  ([https://codehs.com/tutorial/jkeesh/how-to-set-up-an-ethereum-wallet-on-metamask](https://codehs.com/tutorial/jkeesh/how-to-set-up-an-ethereum-wallet-on-metamask))
 
 - #### Web3 Tutorial [04/10] - [Metamask and Goerli Testnet](https://www.youtube.com/watch?v=odD29qGrdtQ)  
     ([https://www.youtube.com/watch?v=odD29qGrdtQ](https://docs.aztec.network/))
