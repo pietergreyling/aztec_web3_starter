@@ -26,9 +26,9 @@
 ### Install Discord 
 Discord will help you to communicate with the Aztec Network Developer Relations Engineers.
 
-- #### [Discord Desktop Installation Guide](https://support.discord.com/hc/en-us/articles/360034561191-Desktop-Installation-Guide)
+- ### [Discord Desktop Installation Guide](https://support.discord.com/hc/en-us/articles/360034561191-Desktop-Installation-Guide)
   - (https://support.discord.com/hc/en-us/articles/360034561191-Desktop-Installation-Guide)
-- #### [Download Discord](https://discord.com/download)
+- ### [Download Discord](https://discord.com/download)
   - (https://discord.com/download)
 
 ### How to set up a MetaMask Wallet and develop with the Goerli testnet
