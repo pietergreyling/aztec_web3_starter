@@ -17,11 +17,17 @@
 
 ### These videos will provide you with background information about Aztec
 
-- ### [Aztec - Joe Andrews (CPO) and Zac Williamson (CTO)](https://www.youtube.com/watch?v=NyBwdcIMT0M)
-  - (https://www.youtube.com/watch?v=NyBwdcIMT0M)
+- ### [Aztec Talks and Videos](https://docs.aztec.network/how-aztec-works/talks-videos)
+  - (https://docs.aztec.network/how-aztec-works/talks-videos)
 
-- ### [Privacy on blockchains and future of rollups | Joe from Aztec](https://www.youtube.com/watch?v=3ZxyHTlkH9E)
-  - ([https://www.youtube.com/watch?v=3ZxyHTlkH9E](https://www.youtube.com/watch?v=3ZxyHTlkH9E))
+    - ### [Aztec 2.0 - A new layer 2 built with privacy at its core" - Joe Andrews](https://www.youtube.com/watch?v=ksmJahvYKSc)
+      - (https://www.youtube.com/watch?v=ksmJahvYKSc)
+
+    - ### [Aztec - Joe Andrews (CPO) and Zac Williamson (CTO)](https://www.youtube.com/watch?v=NyBwdcIMT0M)
+      - (https://www.youtube.com/watch?v=NyBwdcIMT0M)
+
+    - ### [Privacy on blockchains and future of rollups | Joe from Aztec](https://www.youtube.com/watch?v=3ZxyHTlkH9E)
+      - ([https://www.youtube.com/watch?v=3ZxyHTlkH9E](https://www.youtube.com/watch?v=3ZxyHTlkH9E))
 
 ### Install Discord 
 Discord will help you to communicate with the Aztec Network Developer Relations Engineers.
