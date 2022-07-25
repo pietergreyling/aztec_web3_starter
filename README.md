@@ -17,6 +17,8 @@
 
 ### These videos will provide you with background information about Aztec
 
+- ### [Aztec - Joe Andrews (CPO) and Zac Williamson (CTO)](https://www.youtube.com/watch?v=NyBwdcIMT0M)
+    (https://www.youtube.com/watch?v=NyBwdcIMT0M)
 
 
 ### Install Discord 
