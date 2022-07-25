@@ -7,35 +7,37 @@
 ### Read the Aztec Documentation
 
 - #### [Aztec Network Introduction](https://docs.aztec.network/)  
-    ([https://docs.aztec.network/](https://docs.aztec.network/))
+  - ([https://docs.aztec.network/](https://docs.aztec.network/))
 
 - #### [The Privacy Layer for Web3](https://aztec.network/)
-    ([https://aztec.network/](https://docs.aztec.network/))
+  - ([https://aztec.network/](https://docs.aztec.network/))
 
 - #### [An Introduction to AZTEC](https://medium.com/aztec-protocol/an-introduction-to-aztec-47c70e875dc7)
-  ([https://medium.com/aztec-protocol/an-introduction-to-aztec-47c70e875dc7](https://medium.com/aztec-protocol/an-introduction-to-aztec-47c70e875dc7))
+  - ([https://medium.com/aztec-protocol/an-introduction-to-aztec-47c70e875dc7](https://medium.com/aztec-protocol/an-introduction-to-aztec-47c70e875dc7))
 
 ### These videos will provide you with background information about Aztec
 
 - ### [Aztec - Joe Andrews (CPO) and Zac Williamson (CTO)](https://www.youtube.com/watch?v=NyBwdcIMT0M)
-    (https://www.youtube.com/watch?v=NyBwdcIMT0M)
+  - (https://www.youtube.com/watch?v=NyBwdcIMT0M)
 
+- ### Privacy on blockchains and future of rollups | Joe from Aztec
+  - ([https://www.youtube.com/watch?v=3ZxyHTlkH9E](https://www.youtube.com/watch?v=3ZxyHTlkH9E))
 
 ### Install Discord 
 Discord will help you to communicate with the Aztec Network Developer Relations Engineers.
 
 - #### [Discord Desktop Installation Guide](https://support.discord.com/hc/en-us/articles/360034561191-Desktop-Installation-Guide)
-    (https://support.discord.com/hc/en-us/articles/360034561191-Desktop-Installation-Guide)
+  - (https://support.discord.com/hc/en-us/articles/360034561191-Desktop-Installation-Guide)
 - #### [Download Discord](https://discord.com/download)
-    (https://discord.com/download)
+  - (https://discord.com/download)
 
 ### How to set up a MetaMask Wallet and develop with the Goerli testnet
 
 - #### [How to set up an Ethereum wallet on MetaMask](https://codehs.com/tutorial/jkeesh/how-to-set-up-an-ethereum-wallet-on-metamask)
-  ([https://codehs.com/tutorial/jkeesh/how-to-set-up-an-ethereum-wallet-on-metamask](https://codehs.com/tutorial/jkeesh/how-to-set-up-an-ethereum-wallet-on-metamask))
+  - ([https://codehs.com/tutorial/jkeesh/how-to-set-up-an-ethereum-wallet-on-metamask](https://codehs.com/tutorial/jkeesh/how-to-set-up-an-ethereum-wallet-on-metamask))
 
 - #### Web3 Tutorial [04/10] - [Metamask and Goerli Testnet](https://www.youtube.com/watch?v=odD29qGrdtQ)  
-    ([https://www.youtube.com/watch?v=odD29qGrdtQ](https://docs.aztec.network/))
+  - ([https://www.youtube.com/watch?v=odD29qGrdtQ](https://docs.aztec.network/))
 
 [//]: # (![Main Navigator Page]&#40;./screenshots/screenshot_login.png?raw=true&#41;)
 
