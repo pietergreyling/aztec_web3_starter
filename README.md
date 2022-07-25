@@ -12,7 +12,10 @@
 - #### [The Privacy Layer for Web3](https://aztec.network/)
     ([https://aztec.network/](https://docs.aztec.network/))
 
-### Watch these videos to provide background information
+- #### [An Introduction to AZTEC](https://medium.com/aztec-protocol/an-introduction-to-aztec-47c70e875dc7)
+  ([https://medium.com/aztec-protocol/an-introduction-to-aztec-47c70e875dc7](https://medium.com/aztec-protocol/an-introduction-to-aztec-47c70e875dc7))
+
+### These videos will provide you with background information about Aztec
 
 
 
@@ -33,6 +36,13 @@ Discord will help you to communicate with the Aztec Network Developer Relations 
     ([https://www.youtube.com/watch?v=odD29qGrdtQ](https://docs.aztec.network/))
 
 [//]: # (![Main Navigator Page]&#40;./screenshots/screenshot_login.png?raw=true&#41;)
+
+---
+
+### Aztec Resources
+- Goerli testnet version of zk.money: https://aztec-connect-testnet.zk.money/
+- Goerli testnet server status: https://api.aztec.network/aztec-connect-testnet/falafel/status
+- Goerli testnet block explorer: https://aztec-connect-testnet-explorer.aztec.network/
 
 ---
 
