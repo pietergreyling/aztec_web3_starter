@@ -2,19 +2,25 @@
 
 ---
 
-## Get Started Here
+## Begin Here
 
 ### Read the Aztec Documentation
 
-- ### [Aztec Network Introduction](https://docs.aztec.network/)  
+- #### [Aztec Network Introduction](https://docs.aztec.network/)  
     ([https://docs.aztec.network/](https://docs.aztec.network/))
 
-- ### [The Privacy Layer for Web3](https://aztec.network/)
+- #### [The Privacy Layer for Web3](https://aztec.network/)
     ([https://aztec.network/](https://docs.aztec.network/))
+
+### Install Discord 
+Discord will help you to communicate with the Aztec Network Developer Relations Engineers.
+
+- #### [Discord Desktop Installation Guide](https://support.discord.com/hc/en-us/articles/360034561191-Desktop-Installation-Guide)
+    (https://support.discord.com/hc/en-us/articles/360034561191-Desktop-Installation-Guide)
 
 ### Set up a MetaMask Wallet
 
-- ### Web3 Tutorial [04/10] - [Metamask and Goerli Testnet](https://www.youtube.com/watch?v=odD29qGrdtQ)  
+- #### Web3 Tutorial [04/10] - [Metamask and Goerli Testnet](https://www.youtube.com/watch?v=odD29qGrdtQ)  
     ([https://www.youtube.com/watch?v=odD29qGrdtQ](https://docs.aztec.network/))
 
 [//]: # (![Main Navigator Page]&#40;./screenshots/screenshot_login.png?raw=true&#41;)
