@@ -43,7 +43,7 @@ Discord will help you to communicate with the Aztec Network Developer Relations 
   - ([https://codehs.com/tutorial/jkeesh/how-to-set-up-an-ethereum-wallet-on-metamask](https://codehs.com/tutorial/jkeesh/how-to-set-up-an-ethereum-wallet-on-metamask))
 
 - #### Web3 Tutorial [04/10] - [Metamask and Goerli Testnet](https://www.youtube.com/watch?v=odD29qGrdtQ)  
-  - ([https://www.youtube.com/watch?v=odD29qGrdtQ](https://docs.aztec.network/))
+  - ([https://www.youtube.com/watch?v=odD29qGrdtQ](https://www.youtube.com/watch?v=odD29qGrdtQ/))
 
 [//]: # (![Main Navigator Page]&#40;./screenshots/screenshot_login.png?raw=true&#41;)
 
