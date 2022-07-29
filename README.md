@@ -5,7 +5,7 @@
 ## Introduction
 
 ### The Purpose of this Project   
-The purpose of this project is to provide a Web 3.0 Aztec Network getting started tutorial guide for Web 2.0 developers who are new to working with Web 3.0 in general.
+The purpose of this project is to provide a Web 3.0 Aztec Network getting started tutorial guide for Web 2.0 developers who are new to working with Aztec technology and Web 3.0 in general.
 
 ### What is Aztec Network?  
 Aztec is an open source layer 2 network that aims to bring scalability and privacy to Ethereum. It strives to enable affordable, private crypto payments via zero-knowledge proofs.  
@@ -30,22 +30,24 @@ Privacy isn't just a human right, it's a tool for creativity. With privacy by de
 - #### [An Introduction to AZTEC](https://medium.com/aztec-protocol/an-introduction-to-aztec-47c70e875dc7)
   - ([https://medium.com/aztec-protocol/an-introduction-to-aztec-47c70e875dc7](https://medium.com/aztec-protocol/an-introduction-to-aztec-47c70e875dc7))
 
-### These videos will provide you with background information about Aztec
+- #### [Aztec Protocol blog articles on Medium](https://medium.com/aztec-protocol)
+  - ([https://medium.com/aztec-protocol](https://medium.com/aztec-protocol)) 
 
+### Watch Aztec Videos
 - #### [Aztec Talks and Videos](https://docs.aztec.network/how-aztec-works/talks-videos)
-  - (https://docs.aztec.network/how-aztec-works/talks-videos)
+  - ([https://docs.aztec.network/how-aztec-works/talks-videos](https://docs.aztec.network/how-aztec-works/talks-videos))
 
-    - #### [Aztec 2.0 - A new layer 2 built with privacy at its core" - Joe Andrews](https://www.youtube.com/watch?v=ksmJahvYKSc)
-      - (https://www.youtube.com/watch?v=ksmJahvYKSc)
+- #### [Aztec 2.0 - A new layer 2 built with privacy at its core" - Joe Andrews](https://www.youtube.com/watch?v=ksmJahvYKSc)
+  - (https://www.youtube.com/watch?v=ksmJahvYKSc)
 
-    - #### [Aztec - Joe Andrews (CPO) and Zac Williamson (CTO)](https://www.youtube.com/watch?v=NyBwdcIMT0M)
-      - (https://www.youtube.com/watch?v=NyBwdcIMT0M)
+- #### [Aztec - Joe Andrews (CPO) and Zac Williamson (CTO)](https://www.youtube.com/watch?v=NyBwdcIMT0M)
+  - (https://www.youtube.com/watch?v=NyBwdcIMT0M)
 
-    - #### [Privacy on blockchains and future of rollups | Joe from Aztec](https://www.youtube.com/watch?v=3ZxyHTlkH9E)
-      - ([https://www.youtube.com/watch?v=3ZxyHTlkH9E](https://www.youtube.com/watch?v=3ZxyHTlkH9E))
+- #### [Privacy on blockchains and future of rollups | Joe from Aztec](https://www.youtube.com/watch?v=3ZxyHTlkH9E)
+  - ([https://www.youtube.com/watch?v=3ZxyHTlkH9E](https://www.youtube.com/watch?v=3ZxyHTlkH9E))
 
 ### Install Discord 
-Discord will help you to communicate with the Aztec Network Developer Relations Engineers.
+Discord will help you to communicate with the Aztec Network Developer Relations team.
 
 - ### [Discord Desktop Installation Guide](https://support.discord.com/hc/en-us/articles/360034561191-Desktop-Installation-Guide)
   - (https://support.discord.com/hc/en-us/articles/360034561191-Desktop-Installation-Guide)
@@ -57,8 +59,11 @@ Discord will help you to communicate with the Aztec Network Developer Relations 
 - #### [How to set up an Ethereum wallet on MetaMask](https://codehs.com/tutorial/jkeesh/how-to-set-up-an-ethereum-wallet-on-metamask)
   - ([https://codehs.com/tutorial/jkeesh/how-to-set-up-an-ethereum-wallet-on-metamask](https://codehs.com/tutorial/jkeesh/how-to-set-up-an-ethereum-wallet-on-metamask))
 
-- #### Web3 Tutorial [04/10] - [Metamask and Goerli Testnet](https://www.youtube.com/watch?v=odD29qGrdtQ)  
+- #### [Web3 Tutorial: Metamask and Goerli Testnet](https://www.youtube.com/watch?v=odD29qGrdtQ)  
   - ([https://www.youtube.com/watch?v=odD29qGrdtQ](https://www.youtube.com/watch?v=odD29qGrdtQ/))
+
+- #### [Goerli (Görli)Testnet Network to Metamask and Receiving Test Ethereum in Less than 2 Min](https://blog.cryptostars.is/goerli-g%C3%B6rli-testnet-network-to-metamask-and-receiving-test-ethereum-in-less-than-2-min-de13e6fe5677)
+  - ([https://blog.cryptostars.is/goerli-g%C3%B6rli-testnet-network-to-metamask-and-receiving-test-ethereum-in-less-than-2-min-de13e6fe5677](https://blog.cryptostars.is/goerli-g%C3%B6rli-testnet-network-to-metamask-and-receiving-test-ethereum-in-less-than-2-min-de13e6fe5677))
 
 [//]: # (![Main Navigator Page]&#40;./screenshots/screenshot_login.png?raw=true&#41;)
 
