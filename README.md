@@ -2,6 +2,21 @@
 
 ---
 
+## Introduction
+
+### The Purpose of this Project   
+The purpose of this project is to provide a Web 3.0 Aztec Network getting started tutorial guide for Web 2.0 developers who are new to working with Web 3.0 in general.
+
+### What is Aztec Network?  
+Aztec is an open source layer 2 network that aims to bring scalability and privacy to Ethereum. It strives to enable affordable, private crypto payments via zero-knowledge proofs.  
+
+#### From the [Aztec Vision](https://aztec.network/vision) website  
+  - [https://aztec.network/vision](https://aztec.network/vision)
+
+Privacy isn't just a human right, it's a tool for creativity. With privacy by default, the world of games, NFTs, and DeFi applications just got bigger. Aztec is an open source layer 2 network that aims to bring scalability and privacy to Ethereum. It strives to enable affordable, private crypto payments via zero-knowledge proofs. Aztec is built from the ground up to be privacy-first. 
+
+---
+
 ## Prerequisites: Begin Here
 
 ### Read the Aztec Documentation
@@ -49,10 +64,23 @@ Discord will help you to communicate with the Aztec Network Developer Relations 
 
 ---
 
+## Get Coding
+
+### TODO!!!
+
+---
+
 ### Aztec Resources
 - Goerli testnet version of zk.money: https://aztec-connect-testnet.zk.money/
 - Goerli testnet server status: https://api.aztec.network/aztec-connect-testnet/falafel/status
 - Goerli testnet block explorer: https://aztec-connect-testnet-explorer.aztec.network/
+
+---
+
+### General Web 3.0 References
+- CryptoCurrency Wiki: [https://cryptocurrencywiki.org/Main_Page](https://cryptocurrencywiki.org/Main_Page)
+- ETHEREUM DEVELOPMENT DOCUMENTATION: [https://ethereum.org/en/developers/docs/](https://ethereum.org/en/developers/docs/)
+- Blockchain and cryptocurrency: [https://golden.com/wiki/Blockchain_and_cryptocurrency-8AR86E6](https://golden.com/wiki/Blockchain_and_cryptocurrency-8AR86E6) 
 
 ---
 
