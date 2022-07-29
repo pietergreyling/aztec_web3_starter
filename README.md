@@ -68,6 +68,10 @@ Discord will help you to communicate with the Aztec Network Developer Relations 
 
 ### TODO!!!
 
+#### TODO!!! From here:
+- Aztec Network Introduction: [https://docs.aztec.network/](https://docs.aztec.network/) 
+- [https://github.com/critesjosh/aztec-sdk-starter](https://github.com/critesjosh/aztec-sdk-starter)
+
 ---
 
 ### Aztec Resources
