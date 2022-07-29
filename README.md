@@ -4,8 +4,8 @@
 
 ## Introduction
 
-### The Purpose of this Tutorial   
-The purpose of this project is to provide a Web 3.0 Aztec Network getting started tutorial guide for Web 2.0 developers who are new to working with Aztec technology and Web 3.0 in general.
+### The Purpose of this repository   
+The purpose of this tutorial repository is to provide a Web 3.0 Aztec Network getting started guide for Web 2.0 developers who are new to working with Aztec technology and Web 3.0 in general.
 
 ### What is Aztec Network?  
 Aztec is an open source layer 2 network that aims to bring scalability and privacy to Ethereum. It strives to enable affordable, private crypto payments via zero-knowledge proofs.  
