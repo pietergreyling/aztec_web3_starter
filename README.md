@@ -19,7 +19,7 @@ Privacy isn't just a human right, it's a tool for creativity. With privacy by de
 
 ## Prerequisites: Begin Here
 
-### Read the Aztec Documentation
+### Read Aztec Protocol/Network Related Documentation
 
 - #### Aztec Network Introduction  
   - [https://docs.aztec.network/](https://docs.aztec.network/)
@@ -32,6 +32,9 @@ Privacy isn't just a human right, it's a tool for creativity. With privacy by de
 
 - #### Aztec Protocol blog articles on Medium
   - [https://medium.com/aztec-protocol](https://medium.com/aztec-protocol) 
+
+- #### Privacy Tech in Review: ZK Money
+  - [https://medium.com/zero-knowledge-validator/privacy-tech-in-review-zk-money-efb59f879043](https://medium.com/zero-knowledge-validator/privacy-tech-in-review-zk-money-efb59f879043)
 
 ### Watch Aztec Videos
 - #### Aztec Talks and Videos
