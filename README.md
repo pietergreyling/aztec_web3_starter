@@ -66,23 +66,23 @@ Discord will help you to communicate with the Aztec Network Developer Relations 
 - #### Goerli (Görli)Testnet Network to Metamask and Receiving Test Ethereum in Less than 2 Min
   - [https://blog.cryptostars.is/goerli-g%C3%B6rli-testnet-network-to-metamask-and-receiving-test-ethereum-in-less-than-2-min-de13e6fe5677](https://blog.cryptostars.is/goerli-g%C3%B6rli-testnet-network-to-metamask-and-receiving-test-ethereum-in-less-than-2-min-de13e6fe5677)
 
+- #### The Goerli Authenticated Faucet HowTo
+  - [https://goerli-faucet.mudit.blog/](https://goerli-faucet.mudit.blog/)
+
 [//]: # (![Main Navigator Page]&#40;./screenshots/screenshot_login.png?raw=true&#41;)
 
 ---
 
-## Get Coding
+## [TODO!] Building the Aztec SDK Starter Code
 
-### TODO!!!
-
-#### TODO!!! From here:
 - Aztec Network Introduction 
   - [https://docs.aztec.network/](https://docs.aztec.network/) 
-- Aztec SDK Starter Repository
+- The Aztec SDK Starter Repository
   - [https://github.com/critesjosh/aztec-sdk-starter](https://github.com/critesjosh/aztec-sdk-starter)
 
 ---
 
-### Aztec Resources
+## Aztec Resources
 - Aztec Goerli testnet version of zk.money 
   - [https://aztec-connect-testnet.zk.money/](https://aztec-connect-testnet.zk.money/)
 - Aztec Goerli testnet server status 
@@ -94,7 +94,7 @@ Discord will help you to communicate with the Aztec Network Developer Relations 
 
 ---
 
-### General Web 3.0 References
+## General Web 3.0 References
 - CryptoCurrency Wiki 
   - [https://cryptocurrencywiki.org/Main_Page](https://cryptocurrencywiki.org/Main_Page)
 - ETHEREUM DEVELOPMENT DOCUMENTATION 
