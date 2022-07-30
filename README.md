@@ -76,9 +76,16 @@ Discord will help you to communicate with the Aztec Network Developer Relations 
 
 ## Building the Aztec SDK Starter Code on macOS  
 
-These notes record steps that were performed on a macOS development laptop.  
+These notes record steps that were performed **on a macOS development laptop**.  
 
-Other operating systems should have similar options to enable the equivalent operations.
+Other operating systems should have similar options to enable the equivalent operations.  
+
+I use the [Homebrew](https://brew.sh/) package manager on my macOS development laptop.
+
+Package managers like [Homebrew for macOS](https://brew.sh/) have equivalents such as [Chocolatey for Windows](https://chocolatey.org/) and many others for Linux.  
+
+Here is a list of software package management systems:
+  - [https://en.wikipedia.org/wiki/List_of_software_package_management_systems](https://en.wikipedia.org/wiki/List_of_software_package_management_systems)
 
 ### A Step-by-Step Personal Log/Notebook   
 
