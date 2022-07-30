@@ -87,6 +87,8 @@ Package managers like [Homebrew for macOS](https://brew.sh/) have equivalents su
 Here is a list of software package management systems:
   - [https://en.wikipedia.org/wiki/List_of_software_package_management_systems](https://en.wikipedia.org/wiki/List_of_software_package_management_systems)
 
+---  
+
 ### Step-by-Step   
 
 #### [1] Read/Refer to these resources  
@@ -100,14 +102,22 @@ Here is a list of software package management systems:
 
   - [https://github.com/critesjosh/aztec-sdk-starter#requirements](https://github.com/critesjosh/aztec-sdk-starter#requirements)
 
+For your reference; How to install [Homebrew](https://brew.sh/), NodeJS and NPM on macOS   
+
+  - [https://medium.com/@hayasnc/how-to-install-nodejs-and-npm-on-mac-using-homebrew-b33780287d8f](https://medium.com/@hayasnc/how-to-install-nodejs-and-npm-on-mac-using-homebrew-b33780287d8f)
+
+I already have Homebrew on my system, so I will proceed with NodeJS, NPM and Yarn  
+
+
+
 #### [3] Clone the SDK starter repository from GitHub  
 
 ```
-mkdir aztec
-cd aztec
-git clone https://github.com/critesjosh/aztec-sdk-starter.git
-cd aztec-sdk-starter
-ls -lh
+$ mkdir aztec
+$ cd aztec
+$ git clone https://github.com/critesjosh/aztec-sdk-starter.git
+$ cd aztec-sdk-starter
+$ ls -lh
 ```
 
 ![SDK Starter Directory](./screenshots/aztec-sdk-starter-ls.png?raw=true)
