@@ -86,6 +86,8 @@ Discord will help you to communicate with the Aztec Network Developer Relations 
 - #### The Goerli Authenticated Faucet HowTo
   - [https://goerli-faucet.mudit.blog/](https://goerli-faucet.mudit.blog/)
 
+![Goerli Authenticated Faucet](./screenshots/goerli-authenticated-faucet.png?raw=true)
+
 ---
 
 ## Building the Aztec SDK Starter Code on macOS  
