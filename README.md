@@ -26,7 +26,7 @@ Privacy isn't just a human right, it's a tool for creativity. With privacy by de
 
 ---
 
-## Prerequisites: Begin Here
+## Prerequisite steps: Begin Here
 
 ### Read Aztec Protocol/Network Related Documentation
 
@@ -67,7 +67,12 @@ Discord will help you to communicate with the Aztec Network Developer Relations 
 - #### Download Discord
   - [https://discord.com/download](https://discord.com/download)
 
-### How to set up a MetaMask Wallet and develop with the Goerli testnet
+### How to set up a MetaMask Wallet and develop with the Goerli testnet  
+
+- #### Install MetaMask (for Chrome)  
+  - [https://metamask.io/download/](https://metamask.io/download/)
+
+![Install MetaMask for Chrome](./screenshots/install-metamask-for-chrome.png?raw=true)
 
 - #### How to set up an Ethereum wallet on MetaMask
   - [https://codehs.com/tutorial/jkeesh/how-to-set-up-an-ethereum-wallet-on-metamask](https://codehs.com/tutorial/jkeesh/how-to-set-up-an-ethereum-wallet-on-metamask)
