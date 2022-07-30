@@ -87,7 +87,7 @@ Package managers like [Homebrew for macOS](https://brew.sh/) have equivalents su
 Here is a list of software package management systems:
   - [https://en.wikipedia.org/wiki/List_of_software_package_management_systems](https://en.wikipedia.org/wiki/List_of_software_package_management_systems)
 
-### A Step-by-Step Personal Log/Notebook   
+### Step-by-Step   
 
 #### [1] Read/Refer to these resources  
 
