@@ -4,8 +4,8 @@
 
 ## Introduction
 
-### The Purpose of this repository   
-The purpose of this tutorial repository is to provide a Web 3.0 Aztec Network getting started guide for Web 2.0 developers who are new to working with Aztec technology and Web 3.0 in general.
+### The Purpose of this Learning Path   
+The purpose of this tutorial repository is to provide a Web 3.0 Aztec Network getting started learning path for Web 2.0 developers who are new to working with Aztec technology and Web 3.0 in general.
 
 ### What is Aztec Network?  
 Aztec is an open source layer 2 network that aims to bring scalability and privacy to Ethereum. It strives to enable affordable, private crypto payments via zero-knowledge proofs.  
@@ -72,16 +72,41 @@ Discord will help you to communicate with the Aztec Network Developer Relations 
 - #### The Goerli Authenticated Faucet HowTo
   - [https://goerli-faucet.mudit.blog/](https://goerli-faucet.mudit.blog/)
 
-[//]: # (![Main Navigator Page]&#40;./screenshots/screenshot_login.png?raw=true&#41;)
-
 ---
 
-## [TODO!] Building the Aztec SDK Starter Code
+## Building the Aztec SDK Starter Code on macOS  
+
+These notes record steps that were performed on a macOS development laptop.  
+
+Other operating systems should have similar options to enable the equivalent operations.
+
+### A Step-by-Step Personal Log/Notebook   
+
+#### [1] Read/Refer to these resources  
 
 - Aztec Network Introduction 
   - [https://docs.aztec.network/](https://docs.aztec.network/) 
 - The Aztec SDK Starter Repository
   - [https://github.com/critesjosh/aztec-sdk-starter](https://github.com/critesjosh/aztec-sdk-starter)
+
+#### [2] Install the SDK starter repository dependencies
+
+  - [https://github.com/critesjosh/aztec-sdk-starter#requirements](https://github.com/critesjosh/aztec-sdk-starter#requirements)
+
+#### [3] Clone the SDK starter repository from GitHub  
+
+```
+
+mkdir aztec
+cd aztec
+git clone https://github.com/critesjosh/aztec-sdk-starter.git
+cd aztec-sdk-starter
+ls -lh
+
+
+```
+
+![SDK Starter Directory](./screenshots/aztec-sdk-starter-ls.png?raw=true)
 
 ---
 
