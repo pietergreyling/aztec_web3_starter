@@ -103,14 +103,11 @@ Here is a list of software package management systems:
 #### [3] Clone the SDK starter repository from GitHub  
 
 ```
-
 mkdir aztec
 cd aztec
 git clone https://github.com/critesjosh/aztec-sdk-starter.git
 cd aztec-sdk-starter
 ls -lh
-
-
 ```
 
 ![SDK Starter Directory](./screenshots/aztec-sdk-starter-ls.png?raw=true)
