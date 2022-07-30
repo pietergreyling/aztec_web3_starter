@@ -108,7 +108,22 @@ For your reference; How to install [Homebrew](https://brew.sh/), NodeJS and NPM 
 
 I already have Homebrew on my system, so I will proceed with NodeJS, NPM and Yarn  
 
+```
+$ cd ~
 
+# -- Node
+$ brew install node
+$ brew info node
+$ brew info npm
+
+# -- Yarn
+$ brew install yarn
+$ brew info yarn
+```
+
+![brew info node](./screenshots/brew-info-node.png?raw=true)  
+
+![brew info yarn](./screenshots/brew-info-yarn.png?raw=true)
 
 #### [3] Clone the SDK starter repository from GitHub  
 
