@@ -89,16 +89,16 @@ Here is a list of software package management systems:
 
 ---  
 
-### Step-by-Step   
+## Step-by-Step   
 
-#### [1] Read/Refer to these resources  
+### [1] Read/Refer to these resources  
 
 - Aztec Network Introduction 
   - [https://docs.aztec.network/](https://docs.aztec.network/) 
 - The Aztec SDK Starter Repository
   - [https://github.com/critesjosh/aztec-sdk-starter](https://github.com/critesjosh/aztec-sdk-starter)
 
-#### [2] Install the SDK starter repository dependencies
+### [2] Install the SDK starter repository dependencies
 
   - [https://github.com/critesjosh/aztec-sdk-starter#requirements](https://github.com/critesjosh/aztec-sdk-starter#requirements)
 
@@ -125,7 +125,7 @@ $ brew info yarn
 
 ![brew info yarn](./screenshots/brew-info-yarn.png?raw=true)
 
-#### [3] Clone the SDK starter repository from GitHub  
+### [3] Clone the SDK starter repository from GitHub  
 
 ```
 $ mkdir aztec
