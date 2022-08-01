@@ -69,10 +69,15 @@ Discord will help you to communicate with the Aztec Network Developer Relations 
 
 ### How to set up a MetaMask Wallet and develop with the Goerli testnet  
 
-- #### Install MetaMask (for Chrome)  
+- #### Install MetaMask for Chrome
+
   - [https://metamask.io/download/](https://metamask.io/download/)
 
 ![Install MetaMask for Chrome](./screenshots/install-metamask-for-chrome.png?raw=true)
+
+![Install MetaMask for Chrome](./screenshots/metamask-setup-01.png?raw=true)
+
+![Install MetaMask for Chrome](./screenshots/metamask-setup-02.png?raw=true)
 
 - #### How to set up an Ethereum wallet on MetaMask
   - [https://codehs.com/tutorial/jkeesh/how-to-set-up-an-ethereum-wallet-on-metamask](https://codehs.com/tutorial/jkeesh/how-to-set-up-an-ethereum-wallet-on-metamask)
