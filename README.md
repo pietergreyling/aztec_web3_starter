@@ -85,9 +85,15 @@ Discord will help you to communicate with the Aztec Network Developer Relations 
 - #### Web3 Tutorial: Metamask and Goerli Testnet
   - [https://www.youtube.com/watch?v=odD29qGrdtQ](https://www.youtube.com/watch?v=odD29qGrdtQ/)
 
-- #### Goerli (Görli)Testnet Network to Metamask and Receiving Test Ethereum in Less than 2 Min
+- #### Goerli (Görli)Testnet Network to MetaMask and Receiving Test Ethereum in Less than 2 Min
   - [https://blog.cryptostars.is/goerli-g%C3%B6rli-testnet-network-to-metamask-and-receiving-test-ethereum-in-less-than-2-min-de13e6fe5677](https://blog.cryptostars.is/goerli-g%C3%B6rli-testnet-network-to-metamask-and-receiving-test-ethereum-in-less-than-2-min-de13e6fe5677)
-
+  
+After following the previous tutorials you should be able to see something similar to this MetaMask network configuration:    
+    
+![MetaMask Goerli Network Setup 1](./screenshots/metamask-goerli-setup-01.png?raw=true)    
+    
+![MetaMask Goerli Network Setup 2](./screenshots/metamask-goerli-setup-02.png?raw=true)    
+    
 - #### The Goerli Authenticated Faucet HowTo
   - [https://goerli-faucet.mudit.blog/](https://goerli-faucet.mudit.blog/)
 
