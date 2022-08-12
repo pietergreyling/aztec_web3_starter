@@ -171,21 +171,12 @@ It is possible that you might run into issues with the Goerli Testnet Faucet, su
 ### Adding the Aztec Mainnet Fork to your MetaMask Wallet with the Android Mobile App  
   
 <p align="center">
-  <img width=500 height=auto src="screenshots/add-aztec-mainnet-fork-network-01-mobile.png">
+  <img width=300 height=auto src="screenshots/add-aztec-mainnet-fork-network-01-mobile.png"> <img width=300 height=auto src="screenshots/add-aztec-mainnet-fork-network-02-mobile.png">
+</p>  
+<p align="center">
+  <img width=300 height=auto src="screenshots/add-aztec-mainnet-fork-network-03-mobile.png"> <img width=300 height=auto src="screenshots/add-aztec-mainnet-fork-network-04-mobile.png">
 </p>  
 
-<p align="center">
-  <img width=500 height=auto src="screenshots/add-aztec-mainnet-fork-network-02-mobile.png">
-</p>  
-
-<p align="center">
-  <img width=500 height=auto src="screenshots/add-aztec-mainnet-fork-network-03-mobile.png">
-</p>  
-
-<p align="center">
-  <img width=500 height=auto src="screenshots/add-aztec-mainnet-fork-network-04-mobile.png">
-</p>  
-  
 ---
   
 # Building the Aztec SDK Starter Code on macOS  
