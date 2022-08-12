@@ -194,16 +194,16 @@ Here is a list of software package management systems:
 
 ---  
 
-## Step-by-Step   
-
-### [1] Read/Refer to these resources  
+## Read/Refer to these resources  
 
 - Aztec Network Introduction 
   - [https://docs.aztec.network/](https://docs.aztec.network/) 
 - The Aztec SDK Starter Repository
   - [https://github.com/critesjosh/aztec-sdk-starter](https://github.com/critesjosh/aztec-sdk-starter)
 
-### [2] Install the SDK starter repository dependencies
+---  
+
+## Install the SDK starter runtime dependencies
 
   - [https://github.com/critesjosh/aztec-sdk-starter#requirements](https://github.com/critesjosh/aztec-sdk-starter#requirements)
 
@@ -239,7 +239,9 @@ $ brew info yarn
 
 ![brew info yarn](./screenshots/brew-info-yarn.png?raw=true) -->
 
-### [3] Clone the SDK starter repository from GitHub  
+---  
+
+## Clone the SDK starter repository from GitHub  
   
   
 ```
@@ -255,6 +257,25 @@ $ ls -lh
 </p>  
 
 <!-- ![SDK Starter Directory](./screenshots/aztec-sdk-starter-ls.png?raw=true) -->
+
+---
+
+## Install the SDK starter package dependencies
+  
+<p align="center">
+  <img width=auto height=auto src="screenshots/aztec-sdk-starter-dependencies-01.png">
+</p>
+
+<p align="center">
+  <img width=auto height=auto src="screenshots/aztec-sdk-starter-dependencies-02.png">
+</p>
+
+<p align="center">
+  <img width=auto height=auto src="screenshots/aztec-sdk-starter-dependencies-03.png">
+</p>
+
+
+
 
 ---
 
