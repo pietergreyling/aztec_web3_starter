@@ -280,6 +280,13 @@ Be sure to pick the highest, most recent, version number of `@aztec/bridge-clien
   <img width=auto height=auto src="screenshots/aztec-sdk-starter-dependencies-03.png">
 </p>
 
+Also make sure to periodically check for updates to the repository and dependencies.  
+
+```shell
+$ git pull
+$ yarn upgrade --latest
+```  
+
 ---
 
 ## General Web 3.0 References
