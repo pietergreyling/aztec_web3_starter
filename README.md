@@ -214,7 +214,7 @@ For your reference; How to install [Homebrew](https://brew.sh/), NodeJS and NPM 
 I already have Homebrew on my system, so I will proceed with NodeJS, NPM and Yarn  
   
 
-```
+```shell
 $ cd ~
 
 # -- Node
@@ -244,7 +244,7 @@ $ brew info yarn
 ## Clone the SDK starter repository from GitHub  
   
   
-```
+```shell
 $ mkdir aztec
 $ cd aztec
 $ git clone https://github.com/critesjosh/aztec-sdk-starter.git
@@ -261,7 +261,13 @@ $ ls -lh
 ---
 
 ## Install the SDK starter package dependencies
+    
+```shell
+$ yarn
+```  
   
+Be sure to pick the highest, most recent, version number of `@aztec/bridge-clients`.  
+
 <p align="center">
   <img width=auto height=auto src="screenshots/aztec-sdk-starter-dependencies-01.png">
 </p>
@@ -280,11 +286,11 @@ $ ls -lh
 ---
 
 ## Aztec Resources
-- Aztec Goerli testnet version of zk.money 
+- Aztec Testnet Version of zk.money 
   - [https://aztec-connect-testnet.zk.money/](https://aztec-connect-testnet.zk.money/)
-- Aztec Goerli testnet server status 
+- Aztec Testnet Server Status 
   - [https://api.aztec.network/aztec-connect-testnet/falafel/status](https://api.aztec.network/aztec-connect-testnet/falafel/status)
-- Aztec Goerli testnet block explorer 
+- Aztec Testnet Block Explorer 
   - [https://aztec-connect-testnet-explorer.aztec.network/](https://aztec-connect-testnet-explorer.aztec.network/)
 - The Aztec Noir Programming Language 
   - [https://github.com/noir-lang/noir](https://github.com/noir-lang/noir)
