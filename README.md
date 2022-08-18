@@ -86,14 +86,6 @@ Discord will help you to communicate with the Aztec Network Developer Relations 
   <img width=auto height=auto src="screenshots/metamask-setup-02.png">
 </p>  
 
-<!-- 
-![Install MetaMask for Chrome](./screenshots/install-metamask-for-chrome.png?raw=true)
-
-![Install MetaMask for Chrome](./screenshots/metamask-setup-01.png?raw=true)
-
-![Install MetaMask for Chrome](./screenshots/metamask-setup-02.png?raw=true) 
--->
-
 - ### How to set up an Ethereum wallet on MetaMask
   - [https://codehs.com/tutorial/jkeesh/how-to-set-up-an-ethereum-wallet-on-metamask](https://codehs.com/tutorial/jkeesh/how-to-set-up-an-ethereum-wallet-on-metamask)
 
@@ -116,11 +108,6 @@ After following the previous tutorials you should be able to see something simil
   <img width=auto height=auto src="screenshots/metamask-goerli-setup-02.png">
 </p>  
 
-
-<!-- ![MetaMask Goerli Network Setup 1](./screenshots/metamask-goerli-setup-01.png?raw=true)    
-    
-![MetaMask Goerli Network Setup 2](./screenshots/metamask-goerli-setup-02.png?raw=true)     -->
-    
 - ### The Goerli Authenticated Faucet HowTo
   - [https://goerli-faucet.mudit.blog/](https://goerli-faucet.mudit.blog/)
 
@@ -128,8 +115,6 @@ After following the previous tutorials you should be able to see something simil
   <img width=auto height=auto src="screenshots/goerli-authenticated-faucet.png">
 </p>  
 
-<!-- ![Goerli Authenticated Faucet](./screenshots/goerli-authenticated-faucet.png?raw=true) -->
-  
 ---
 ## Potential Goerli Testnet Faucet Issues  
   
@@ -213,7 +198,6 @@ For your reference; How to install [Homebrew](https://brew.sh/), NodeJS and NPM 
 
 I already have Homebrew on my system, so I will proceed with NodeJS, NPM and Yarn  
   
-
 ```shell
 $ cd ~
 
@@ -235,9 +219,16 @@ $ brew info yarn
   <img width=auto height=auto src="screenshots/brew-info-yarn.png">
 </p>  
 
-<!-- ![brew info node](./screenshots/brew-info-node.png?raw=true)  
+Ensure that TypeScript and its dependencies are installed.  
 
-![brew info yarn](./screenshots/brew-info-yarn.png?raw=true) -->
+```shell
+$ npm install ts-node --save-dev
+$ npm install typescript -g
+$ npm install typescript --save-dev
+```  
+<p align="center">
+  <img width=auto height=auto src="screenshots/typescript-setup-01.png">
+</p>  
 
 ---  
 
@@ -255,8 +246,6 @@ $ ls -al
 <p align="center">
   <img width=auto height=auto src="screenshots/aztec-sdk-starter-ls.png">
 </p>  
-
-<!-- ![SDK Starter Directory](./screenshots/aztec-sdk-starter-ls.png?raw=true) -->
 
 ---
 
@@ -306,6 +295,20 @@ $ cat .env
   <img width=auto height=auto src="screenshots/aztec-sdk-starter-env.png">
 </p>  
   
+Edit your new `.env` file and add your Ethereum private key or mnemonic. 
+- DO NOT DISCLOSE THIS TO ANYONE!
+- NEVER PUSH THE `.env` FILE TO ANY REPOSITORY! 
+- The local Git repository `.gitignore` file should have an exclusion entry for `.env`.  
+  
+Now run the `./src/latest/index.ts` SDK setup script.
+
+```shell
+yarn go
+```  
+
+
+
+
 ---
 
 ## General Web 3.0 References
@@ -320,7 +323,7 @@ $ cat .env
 
 ---
 
-## Aztec Protocol Resources
+## Aztec Connect/Protocol Resources
 - Aztec Testnet Version of zk.money 
   - [https://aztec-connect-testnet.zk.money/](https://aztec-connect-testnet.zk.money/)
 - Aztec Testnet Server Status 
