@@ -249,7 +249,7 @@ $ mkdir aztec
 $ cd aztec
 $ git clone https://github.com/critesjosh/aztec-sdk-starter.git
 $ cd aztec-sdk-starter
-$ ls -lh
+$ ls -al
 ```  
   
 <p align="center">
