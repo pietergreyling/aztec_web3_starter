@@ -179,10 +179,13 @@ Here is a list of software package management systems:
 
 ---  
 
-## Read/Refer to these resources  
+## Read/refer to these resources  
 
 - Aztec Network Introduction 
   - [https://docs.aztec.network/](https://docs.aztec.network/) 
+- `@aztec/sdk` Documentation and NPM Package
+  - [https://developers.aztec.network/](https://developers.aztec.network/)
+  - [https://www.npmjs.com/package/@aztec/sdk](https://www.npmjs.com/package/@aztec/sdk)
 - The Aztec SDK Starter Repository
   - [https://github.com/critesjosh/aztec-sdk-starter](https://github.com/critesjosh/aztec-sdk-starter)
 
