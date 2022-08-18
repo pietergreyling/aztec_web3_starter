@@ -280,12 +280,21 @@ Be sure to pick the highest, most recent, version number of `@aztec/bridge-clien
   <img width=auto height=auto src="screenshots/aztec-sdk-starter-dependencies-03.png">
 </p>
 
+---
 
-
+## General Web 3.0 References
+- CryptoCurrency Wiki 
+  - [https://cryptocurrencywiki.org/Main_Page](https://cryptocurrencywiki.org/Main_Page)
+- Blockchain and CryptoCurrency Wiki 
+  - [https://golden.com/wiki/Blockchain_and_cryptocurrency-8AR86E6](https://golden.com/wiki/Blockchain_and_cryptocurrency-8AR86E6) 
+- Ethereum Development Documentation
+  - [https://ethereum.org/en/developers/docs/](https://ethereum.org/en/developers/docs/)
+- Ethereum Stack Exchange  
+  - [https://ethereum.stackexchange.com/](https://ethereum.stackexchange.com/)
 
 ---
 
-## Aztec Resources
+## Aztec Protocol Resources
 - Aztec Testnet Version of zk.money 
   - [https://aztec-connect-testnet.zk.money/](https://aztec-connect-testnet.zk.money/)
 - Aztec Testnet Server Status 
@@ -297,15 +306,6 @@ Be sure to pick the highest, most recent, version number of `@aztec/bridge-clien
 
 ---
 
-## General Web 3.0 References
-- CryptoCurrency Wiki 
-  - [https://cryptocurrencywiki.org/Main_Page](https://cryptocurrencywiki.org/Main_Page)
-- ETHEREUM DEVELOPMENT DOCUMENTATION 
-  - [https://ethereum.org/en/developers/docs/](https://ethereum.org/en/developers/docs/)
-- Blockchain and cryptocurrency 
-  - [https://golden.com/wiki/Blockchain_and_cryptocurrency-8AR86E6](https://golden.com/wiki/Blockchain_and_cryptocurrency-8AR86E6) 
-
----
 
 #### LICENSE for this content
 
