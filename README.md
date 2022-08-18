@@ -289,6 +289,25 @@ $ yarn upgrade --latest
 
 ---
 
+## Create and configure the SDK Environment File and run the SDK Setup Script
+
+Refer to the following section of the SDK starter repository documentation.
+- [https://github.com/critesjosh/aztec-sdk-starter#run](https://github.com/critesjosh/aztec-sdk-starter#run)
+
+Remain inside the root directory of your local (cloned) `aztec-sdk-starter` repository and copy the provided example environment script.
+
+```shell
+$ cp .env.example .env
+$ ls -al .env*
+$ cat .env
+```  
+  
+<p align="center">
+  <img width=auto height=auto src="screenshots/aztec-sdk-starter-env.png">
+</p>  
+  
+---
+
 ## General Web 3.0 References
 - CryptoCurrency Wiki 
   - [https://cryptocurrencywiki.org/Main_Page](https://cryptocurrencywiki.org/Main_Page)
