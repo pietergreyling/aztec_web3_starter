@@ -134,15 +134,42 @@ It is possible that you might run into issues with the Goerli Testnet Faucet, su
 
 ## How to set up the Aztec Mainnet Fork for Development  
 
-### Please refer to the following:  
+### Please refer to the following  
 
 - [Aztec SDK Reference script](https://github.com/critesjosh/aztec-sdk-starter#aztec-sdk-reference-script)
   - [https://github.com/critesjosh/aztec-sdk-starter#aztec-sdk-reference-script](https://github.com/critesjosh/aztec-sdk-starter#aztec-sdk-reference-script)
 - [Requirements](https://github.com/critesjosh/aztec-sdk-starter#requirements)
   - [https://github.com/critesjosh/aztec-sdk-starter#requirements](https://github.com/critesjosh/aztec-sdk-starter#requirements)
 - [Environment](https://github.com/critesjosh/aztec-sdk-starter#environment)
-  - [https://github.com/critesjosh/aztec-sdk-starter#environment](https://github.com/critesjosh/aztec-sdk-starter#environment)
-  
+  - [https://github.com/critesjosh/aztec-sdk-starter#environment](https://github.com/critesjosh/aztec-sdk-starter#environment)  
+
+### Use these details to configure the Aztec Mainnet Fork  
+
+- Network Name (recommended)  
+```shell
+Aztec Mainnet Fork
+```
+
+- RPC URL
+```shell
+https://mainnet-fork.aztec.network
+```
+
+- Chain ID
+```shell
+677868
+```
+
+- Currency Symbol  
+```shell
+ETH
+```
+
+- Rollup Provider URL
+```shell
+https://api.aztec.network/aztec-connect-testnet/falafel
+```
+
 ### Adding the Aztec Mainnet Fork to your MetaMask Wallet with the Chrome Web Extension    
   
 <p align="center">
