@@ -170,6 +170,11 @@ ETH
 https://api.aztec.network/aztec-connect-testnet/falafel
 ```
 
+- Block Explorer URL (optional)
+```shell
+https://aztec-connect-testnet-explorer.aztec.network
+```
+
 ### Adding the Aztec Mainnet Fork to your MetaMask Wallet with the Chrome Web Extension    
   
 <p align="center">
