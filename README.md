@@ -1,8 +1,8 @@
-# Getting Started with an Aztec Web3 Project
+# Getting Started with a Web 3.0 Aztec Protocol Project
   
 ## Introduction
 
-### The Purpose of this Learning Path   
+### The Purpose of this Learning Path, or Developer Journey   
 The purpose of this tutorial repository is to provide a Web 3.0 Aztec Network getting started learning path for Web 2.0 developers who are new to working with Aztec technology and Web 3.0 in general.  
 
 ### An important note!
@@ -164,7 +164,7 @@ It is possible that you might run into issues with the Goerli Testnet Faucet, su
 
 ---
   
-# Building the Aztec SDK Starter Code on macOS  
+## Building the Aztec SDK Starter Code on macOS  
 
 These notes record steps that were performed **on a macOS development laptop**.  
 
@@ -179,19 +179,20 @@ Here is a list of software package management systems:
 
 ---  
 
-## Read/refer to these resources  
+### Read/refer to these resources  
 
 - Aztec Network Introduction 
   - [https://docs.aztec.network/](https://docs.aztec.network/) 
-- `@aztec/sdk` Documentation and NPM Package
+- `@aztec/sdk` and `@aztec/bridge-clients` Documentation and NPM Packages
   - [https://developers.aztec.network/](https://developers.aztec.network/)
   - [https://www.npmjs.com/package/@aztec/sdk](https://www.npmjs.com/package/@aztec/sdk)
+  - [https://www.npmjs.com/package/@aztec/bridge-clients](https://www.npmjs.com/package/@aztec/bridge-clients)
 - The Aztec SDK Starter Repository
   - [https://github.com/critesjosh/aztec-sdk-starter](https://github.com/critesjosh/aztec-sdk-starter)
 
 ---  
 
-## Install the SDK starter runtime dependencies
+### Install the SDK starter runtime dependencies
 
   - [https://github.com/critesjosh/aztec-sdk-starter#requirements](https://github.com/critesjosh/aztec-sdk-starter#requirements)
 
@@ -235,8 +236,7 @@ $ npm install typescript --save-dev
 
 ---  
 
-## Clone the SDK starter repository from GitHub  
-  
+### Clone the SDK starter repository from GitHub  
   
 ```shell
 $ mkdir aztec
@@ -252,7 +252,7 @@ $ ls -al
 
 ---
 
-## Install the SDK starter package dependencies
+### Install the SDK starter package dependencies
     
 ```shell
 $ yarn
@@ -281,7 +281,7 @@ $ yarn upgrade --latest
 
 ---
 
-## Create and configure the SDK Environment File and run the SDK Setup Script
+### Create and configure the SDK Environment File and run the SDK Setup Script
 
 Refer to the following section of the SDK starter repository documentation.
 - [https://github.com/critesjosh/aztec-sdk-starter#run](https://github.com/critesjosh/aztec-sdk-starter#run)
@@ -306,11 +306,85 @@ Edit your new `.env` file and add your Ethereum private key or mnemonic.
 Now run the `./src/latest/index.ts` SDK setup script.
 
 ```shell
-yarn go
+$ yarn go
 ```  
 
+---
 
+## Potential Issues with the Aztec SDK Environment Setup
 
+The following issues might be encountered during the SDK setup and configuration process.  
+
+### Issue: `$ yarn go` fails with "Module `@aztec/sdk` has no exported member 'BridgeId'".  
+
+<u>Error(s) Received</u>  
+
+Executing the following command
+```shell
+$ yarn go
+```  
+eventually raises this exception
+```shell
+$ ... 
+$ src/latest/index.ts:4:3 - error TS2305: Module '"@aztec/sdk"' has no exported member 'BridgeId'. 
+$ ...
+```  
+
+<p align="center">
+  <img width=auto height=auto src="screenshots/yarn-go-error-01.png">
+</p>  
+
+Reviewing the `aztec-sdk-starter` project repository folder in the Visual Studio Code (VSCode) editor displays this issue.  
+
+<p align="center">
+  <img width=auto height=auto src="screenshots/index-ts-bridgeid-import-error-01-vscode.png">
+</p>  
+
+And in the Sublime Text editor.  
+
+<p align="center">
+  <img width=auto height=auto src="screenshots/index-ts-bridgeid-import-error-02-sublime.png">
+</p>  
+
+<u>Root Cause(s)</u>  
+
+The following is the suspected potential root cause of this issue.  
+
+The initial SDK setup command
+```shell
+$ yarn
+```  
+surfaces this warning
+```shell
+$ ... 
+$ Couldn't find any versions for "@aztec/bridge-clients" that matches "2.1.38"
+$ ...
+```  
+
+<p align="center">
+  <img width=auto height=auto src="screenshots/yarn-01-cause.png">
+</p>  
+
+An attempt to investigate this issue by executing the following command
+```shell
+$ yarn add @aztec/bridge-clients@2.1.38
+```  
+surfaces this warning
+```shell
+$ ... 
+$ [1/4] 🔍  Resolving packages...
+$ warning Lockfile has incorrect entry for "@aztec/bridge-clients@2.1.38". Ignoring it.
+$ Couldn't find any versions for "@aztec/bridge-clients" that matches "2.1.38"
+$ ...
+```  
+
+<p align="center">
+  <img width=auto height=auto src="screenshots/yarn-add-aztec-bridge-clients-01.png">
+</p>  
+  
+<u>Recommended Resolution(s)</u>  
+
+___To be decided...___
 
 ---
 
@@ -335,6 +409,14 @@ yarn go
   - [https://aztec-connect-testnet-explorer.aztec.network/](https://aztec-connect-testnet-explorer.aztec.network/)
 - The Aztec Noir Programming Language 
   - [https://github.com/noir-lang/noir](https://github.com/noir-lang/noir)
+- Aztec Network Introduction
+  - [https://docs.aztec.network/](https://docs.aztec.network/)
+- `@aztec/sdk` and `@aztec/bridge-clients` Documentation and NPM Packages
+  - [https://developers.aztec.network/](https://developers.aztec.network/)
+  - [https://www.npmjs.com/package/@aztec/sdk](https://www.npmjs.com/package/@aztec/sdk)
+  - [https://www.npmjs.com/package/@aztec/bridge-clients](https://www.npmjs.com/package/@aztec/bridge-clients)
+- The Aztec SDK Starter Repository
+  - [https://github.com/critesjosh/aztec-sdk-starter](https://github.com/critesjosh/aztec-sdk-starter)
 
 ---
 
