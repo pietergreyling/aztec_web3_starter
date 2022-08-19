@@ -308,6 +308,7 @@ Now run the `./src/latest/index.ts` SDK setup script.
 ```shell
 $ yarn go
 ```  
+See the *"Potential Issues with the Aztec SDK Environment Setup"* section below for the outcome of this command.
 
 ---
 
@@ -317,7 +318,7 @@ The following issues might be encountered during the SDK setup and configuration
 
 ### Issue: `$ yarn go` fails with "Module `@aztec/sdk` has no exported member 'BridgeId'".  
 
-<u>Error(s) Received</u>  
+### Error(s) Received 
 
 Executing the following command
 ```shell
@@ -346,7 +347,7 @@ And in the Sublime Text editor.
   <img width=auto height=auto src="screenshots/index-ts-bridgeid-import-error-02-sublime.png">
 </p>  
 
-<u>Root Cause(s)</u>  
+### Root Cause(s)  
 
 The following is the suspected potential root cause of this issue.  
 
@@ -382,7 +383,7 @@ $ ...
   <img width=auto height=auto src="screenshots/yarn-add-aztec-bridge-clients-01.png">
 </p>  
   
-<u>Recommended Resolution(s)</u>  
+### Recommended Resolution(s)  
 
 ___To be decided...___
 
