@@ -30,7 +30,7 @@ Privacy isn't just a human right, it's a tool for creativity. With privacy by de
 - ### Aztec Network Introduction  
   - [https://docs.aztec.network/](https://docs.aztec.network/)
 
-- ### The Privacy Layer for Web3]
+- ### The Privacy Layer for Web3
   - [https://aztec.network/](https://docs.aztec.network/)
 
 - ### An Introduction to AZTEC
