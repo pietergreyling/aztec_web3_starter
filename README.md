@@ -348,7 +348,8 @@ See the *"Potential Issues with the Aztec SDK Environment Setup"* section below 
 
 The following issues might be encountered during the SDK setup and configuration process.  
 
-### Issue: `$ yarn go` fails with "Module `@aztec/sdk` has no exported member 'BridgeId'".  
+## Issue 1: "BridgeId"
+`$ yarn go` fails with "Module `@aztec/sdk` has no exported member 'BridgeId'".  
 
 ### Error(s) Received 
 
@@ -403,6 +404,7 @@ An attempt to investigate this issue by executing the following command
 $ yarn add @aztec/bridge-clients@2.1.38
 ```  
 surfaces this warning
+  
 ```shell
 $ ... 
 $ [1/4] 🔍  Resolving packages...
@@ -415,9 +417,33 @@ $ ...
   <img width=auto height=auto src="screenshots/yarn-add-aztec-bridge-clients-01.png">
 </p>  
   
-### Recommended Resolution(s)  
+---
 
-___To be decided...___
+ ## Issue 2: "fee parameter agument not received on sdk.createMigrateAccountController"
+
+Executing the following command
+```shell
+$ yarn go
+```  
+eventually raises this exception
+```java
+TSError: ⨯ Unable to compile TypeScript:
+src/latest/migrateAccount.ts:20:28 - error TS2554: Expected 7-10 arguments, but got 6.
+
+ 20     const controller = sdk.createMigrateAccountController(
+                               ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ 21       user,
+    ~~~~~~~~~~~
+...
+ 26       fee
+    ~~~~~~~~~
+ 27     );
+    ~~~~~
+```
+
+<p align="center">
+  <img width=auto height=auto src="screenshots/yarn-go-error-02.png">
+</p>  
 
 ---
 
