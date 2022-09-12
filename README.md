@@ -419,7 +419,7 @@ $ ...
   
 ---
 
- ## Issue 2: "fee parameter agument not received on sdk.createMigrateAccountController"
+ ## Issue 2: "fee parameter agument not received on sdk.createMigrateAccountController() method call"
 
 Executing the following command
 ```shell
