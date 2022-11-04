@@ -104,7 +104,7 @@ Discord will help you to communicate with the Aztec Network Developer Relations 
 - [Aztec SDK Development Environment](https://github.com/AztecProtocol/aztec-sdk-starter#environment)
 
 
-### Use these details to configure the Aztec Mainnet Fork  
+### Use these details to configure the Aztec Mainnet Fork on your wallet  
 
 - Network Name (recommended)  
 ```shell
