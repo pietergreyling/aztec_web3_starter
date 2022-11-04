@@ -1,4 +1,4 @@
-# Getting Started with a Web 3.0 Aztec Protocol SDK Project
+# Getting Started with a Web3 Aztec Protocol SDK Project
   
 ## Introduction
 
@@ -88,47 +88,6 @@ Discord will help you to communicate with the Aztec Network Developer Relations 
 
 - ### How to set up an Ethereum wallet on MetaMask
   - [https://codehs.com/tutorial/jkeesh/how-to-set-up-an-ethereum-wallet-on-metamask](https://codehs.com/tutorial/jkeesh/how-to-set-up-an-ethereum-wallet-on-metamask)
-
----  
-
-## How to set up the Goerli Development Testnet  
-- ### Web3 Tutorial: Metamask and Goerli Testnet
-  - [https://www.youtube.com/watch?v=odD29qGrdtQ](https://www.youtube.com/watch?v=odD29qGrdtQ/)
-
-- ### Goerli (Görli)Testnet Network to MetaMask and Receiving Test Ethereum in Less than 2 Min
-  - [https://blog.cryptostars.is/goerli-g%C3%B6rli-testnet-network-to-metamask-and-receiving-test-ethereum-in-less-than-2-min-de13e6fe5677](https://blog.cryptostars.is/goerli-g%C3%B6rli-testnet-network-to-metamask-and-receiving-test-ethereum-in-less-than-2-min-de13e6fe5677)
-  
-After following the previous tutorials you should be able to see something similar to this MetaMask network configuration:    
-    
-<p align="center">
-  <img width=auto height=auto src="screenshots/metamask-goerli-setup-01.png">
-</p>  
-
-<p align="center">
-  <img width=auto height=auto src="screenshots/metamask-goerli-setup-02.png">
-</p>  
-
-- ### The Goerli Authenticated Faucet HowTo
-  - [https://goerli-faucet.mudit.blog/](https://goerli-faucet.mudit.blog/)
-
-<p align="center">
-  <img width=auto height=auto src="screenshots/goerli-authenticated-faucet.png">
-</p>  
-
----
-## Potential Goerli Testnet Faucet Issues  
-  
-It is possible that you might run into issues with the Goerli Testnet Faucet, such as the one documented here:  
-
-- [Goerli Authenticated Faucet unable to dispense funds](https://github.com/eth-clients/goerli/issues/85)
-  - [https://github.com/eth-clients/goerli/issues/85](https://github.com/eth-clients/goerli/issues/85)
-
-<p align="center">
-  <img width=auto height=auto src="screenshots/goerli-faucet-status-no-funds.png">
-</p>  
-
-**In this case, it is recommended to set up a development environment using the Aztec Mainnet Fork as documented below.**  
-  
 
 ---  
 
