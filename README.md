@@ -5,16 +5,10 @@
 ### The Purpose of this Learning Path, or Developer Journey   
 The purpose of this tutorial repository is to provide a Web 3.0 Aztec Network getting started learning path for Web 2.0 developers who are new to working with Aztec technology and Web 3.0 in general.  
 
-### An important note!
-
-I include several screenshots in this tutorial.  
-
-These screenshots are not necessarily applicable to your own personal developer path and experience.  
-
-However, I offer them as a general guide.  
+There are several screenshots in this tutorial. They are not necessarily applicable to your own personal developer path and experience - they are a general guide.  
 
 ### What is Aztec Network?  
-Aztec is an open source layer 2 protocol (or network) that aims to bring scalability and privacy to Ethereum. It strives to enable affordable, private crypto payments via zero-knowledge proofs.  
+Aztec is an open source layer 2 protocol (or network) which aims to bring scalability and privacy to Ethereum. It strives to enable affordable, private crypto payments via zero-knowledge proofs.  
 
 ### From the [Aztec Vision](https://aztec.network/vision) website  
   - [https://aztec.network/vision](https://aztec.network/vision)
