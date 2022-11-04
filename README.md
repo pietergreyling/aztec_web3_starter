@@ -14,7 +14,7 @@ These screenshots are not necessarily applicable to your own personal developer 
 However, I offer them as a general guide.  
 
 ### What is Aztec Network?  
-Aztec is an open source layer 2 network that aims to bring scalability and privacy to Ethereum. It strives to enable affordable, private crypto payments via zero-knowledge proofs.  
+Aztec is an open source layer 2 protocol (or network) that aims to bring scalability and privacy to Ethereum. It strives to enable affordable, private crypto payments via zero-knowledge proofs.  
 
 ### From the [Aztec Vision](https://aztec.network/vision) website  
   - [https://aztec.network/vision](https://aztec.network/vision)
@@ -95,12 +95,14 @@ Discord will help you to communicate with the Aztec Network Developer Relations 
 
 ### Please refer to the following  
 
-- [Aztec SDK Reference script](https://github.com/critesjosh/aztec-sdk-starter#aztec-sdk-reference-script)
-  - [https://github.com/critesjosh/aztec-sdk-starter#aztec-sdk-reference-script](https://github.com/critesjosh/aztec-sdk-starter#aztec-sdk-reference-script)
-- [Requirements](https://github.com/critesjosh/aztec-sdk-starter#requirements)
-  - [https://github.com/critesjosh/aztec-sdk-starter#requirements](https://github.com/critesjosh/aztec-sdk-starter#requirements)
-- [Environment](https://github.com/critesjosh/aztec-sdk-starter#environment)
-  - [https://github.com/critesjosh/aztec-sdk-starter#environment](https://github.com/critesjosh/aztec-sdk-starter#environment)  
+- [The Aztec SDK Starter Repository](https://github.com/AztecProtocol/aztec-sdk-starter)
+
+- [Aztec SDK Reference script](https://github.com/AztecProtocol/aztec-sdk-starter#aztec-sdk-reference-script)
+
+- [Aztec SDK Requirements](https://github.com/AztecProtocol/aztec-sdk-starter#requirements)
+
+- [Aztec SDK Development Environment](https://github.com/AztecProtocol/aztec-sdk-starter#environment)
+
 
 ### Use these details to configure the Aztec Mainnet Fork  
 
