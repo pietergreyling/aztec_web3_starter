@@ -54,6 +54,12 @@ Privacy isn't just a human right, it's a tool for creativity. With privacy by de
 ## Install Discord 
 Discord will help you to communicate with the Aztec Network Developer Relations Engineering team.
 
+- ### Aztec Network on Discord
+  - [The Aztec Network Discord Channel](https://discord.gg/sJpr4KzjJa)
+
+  - [Welcome to The Aztec Network Discord Channel](https://discord.com/channels/563037431604183070/945721017156898938)
+
+
 - ### Discord Desktop Installation Guide
   - [https://support.discord.com/hc/en-us/articles/360034561191-Desktop-Installation-Guide](https://support.discord.com/hc/en-us/articles/360034561191-Desktop-Installation-Guide)
 
