@@ -1,4 +1,4 @@
-# Getting Started with a Web 3.0 Aztec Protocol Project
+# Getting Started with a Web 3.0 Aztec Protocol SDK Project
   
 ## Introduction
 
