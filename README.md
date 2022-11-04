@@ -183,8 +183,10 @@ Here is a list of software package management systems:
   - [https://developers.aztec.network/](https://developers.aztec.network/)
   - [https://www.npmjs.com/package/@aztec/sdk](https://www.npmjs.com/package/@aztec/sdk)
   - [https://www.npmjs.com/package/@aztec/bridge-clients](https://www.npmjs.com/package/@aztec/bridge-clients)
+- The Aztec SDK Overview
+  - [https://docs.aztec.network/sdk/overview](https://docs.aztec.network/sdk/overview)
 - The Aztec SDK Starter Repository
-  - [https://github.com/critesjosh/aztec-sdk-starter](https://github.com/critesjosh/aztec-sdk-starter)
+  - [https://github.com/AztecProtocol/aztec-sdk-starter](https://github.com/AztecProtocol/aztec-sdk-starter)
 
 ---  
 
