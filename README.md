@@ -160,9 +160,9 @@ https://aztec-connect-testnet-explorer.aztec.network
 
 ---
   
-## Building the Aztec SDK Starter Code on macOS  
+## Building the Aztec SDK Starter Code on macOS and Linux  
 
-These notes record steps that were performed **on a macOS development laptop**.  
+These notes record steps that were performed **on a macOS development laptop** and a **Linux (Ubuntu) development laptop**.  
 
 Other operating systems should have similar options to enable the equivalent operations.  
 
