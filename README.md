@@ -193,7 +193,7 @@ Here is a list of software package management systems:
 ### Install the SDK starter runtime dependencies
 
   - [https://github.com/critesjosh/aztec-sdk-starter#requirements](https://github.com/critesjosh/aztec-sdk-starter#requirements)
-  - [https://github.com/AztecProtocol/aztec-sdk-starter](https://github.com/AztecProtocol/aztec-sdk-starter)
+  - [https://github.com/AztecProtocol/aztec-sdk-starter#requirements](https://github.com/AztecProtocol/aztec-sdk-starter#requirements)
 
 For your reference; How to install [Homebrew](https://brew.sh/), NodeJS and NPM on macOS   
 
