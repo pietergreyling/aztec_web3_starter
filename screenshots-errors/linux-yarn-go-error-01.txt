@@ -1,0 +1,23 @@
+➜  aztec-sdk-starter git:(main) ✗ yarn go
+yarn run v1.22.19
+warning ../../../../package.json: No license field
+$ ts-node-esm src/index.ts
+(node:2455665) ExperimentalWarning: Importing JSON modules is an experimental feature. This feature could change at any time
+(Use `node --trace-warnings ...` to show where the warning was created)
+/home/pieter/_pieter_code_/github/aztec/aztec-sdk-starter/node_modules/@aztec/blockchain/node_modules/@ethersproject/wallet/node_modules/@ethersproject/hdnode/src.ts/index.ts:322
+    if ((words.length % 3) !== 0) { throw new Error("invalid mnemonic"); }
+                                          ^
+Error: invalid mnemonic
+    at mnemonicToEntropy (/home/pieter/_pieter_code_/github/aztec/aztec-sdk-starter/node_modules/@aztec/blockchain/node_modules/@ethersproject/wallet/node_modules/@ethersproject/hdnode/src.ts/index.ts:322:43)
+    at Function.HDNode.fromMnemonic (/home/pieter/_pieter_code_/github/aztec/aztec-sdk-starter/node_modules/@aztec/blockchain/node_modules/@ethersproject/wallet/node_modules/@ethersproject/hdnode/src.ts/index.ts:267:38)
+    at Function.Wallet.fromMnemonic (/home/pieter/_pieter_code_/github/aztec/aztec-sdk-starter/node_modules/@aztec/blockchain/node_modules/@ethersproject/wallet/src.ts/index.ts:194:34)
+    at WalletProvider.addAccountFromMnemonicAndPath (file:///home/pieter/_pieter_code_/github/aztec/aztec-sdk-starter/node_modules/@aztec/blockchain/src/provider/wallet_provider.ts:38:40)
+    at WalletProvider.addAccountsFromMnemonic (file:///home/pieter/_pieter_code_/github/aztec/aztec-sdk-starter/node_modules/@aztec/blockchain/src/provider/wallet_provider.ts:33:12)
+    at file:///home/pieter/_pieter_code_/github/aztec/aztec-sdk-starter/src/index.ts:44:16
+    at ModuleJob.run (node:internal/modules/esm/module_job:193:25)
+    at async Promise.all (index 0)
+    at async ESMLoader.import (node:internal/modules/esm/loader:526:24)
+    at async loadESM (node:internal/process/esm_loader:91:5)
+error Command failed with exit code 1.
+info Visit https://yarnpkg.com/en/docs/cli/run for documentation about this command.
+➜  aztec-sdk-starter git:(main) ✗ 
