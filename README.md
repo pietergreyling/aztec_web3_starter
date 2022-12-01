@@ -228,6 +228,7 @@ On Linux (Debian/Ubuntu distributions), do the following.
 $ cd ~
 $ sudo apt-get install -y build-essential
 $ curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash - && sudo apt-get install -y nodejs
+$ sudo npm install -g npm
 $ which node
 $ which npm
 $ node -v
@@ -248,6 +249,13 @@ $ npm install typescript --save-dev
   <img width=auto height=auto src="screenshots/typescript-setup-01.png">
 </p>  
 
+On Linux.
+
+```shell
+$ sudo npm install ts-node --save-dev
+$ sudo npm install typescript -g
+$ sudo npm install typescript --save-dev
+```
 ---  
 
 ### Clone the SDK starter repository from GitHub  
