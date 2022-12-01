@@ -298,6 +298,9 @@ Be sure to pick the highest, most recent, version number of `@aztec/bridge-clien
 
 On Linux.
 
+```shell
+$ yarn
+```  
 <p align="center">
   <img width=auto height=auto src="screenshots/linux-yarn-install1.png">
 </p>
@@ -340,7 +343,7 @@ $ cat .env
   
 Edit your new `.env` file and add your Ethereum private key or mnemonic. 
 - DO NOT DISCLOSE THIS TO ANYONE!
-- NEVER PUSH THE `.env` FILE TO ANY REPOSITORY! 
+- NEVER PUSH THE `.env` FILE TO ANY PUBLIC REPOSITORY! 
 - The local Git repository `.gitignore` file should have an exclusion entry for `.env`.  
   
 Now run the `./src/latest/index.ts` SDK setup script.
