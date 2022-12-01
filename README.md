@@ -193,12 +193,13 @@ Here is a list of software package management systems:
 ### Install the SDK starter runtime dependencies
 
   - [https://github.com/critesjosh/aztec-sdk-starter#requirements](https://github.com/critesjosh/aztec-sdk-starter#requirements)
+  - [https://github.com/AztecProtocol/aztec-sdk-starter](https://github.com/AztecProtocol/aztec-sdk-starter)
 
 For your reference; How to install [Homebrew](https://brew.sh/), NodeJS and NPM on macOS   
 
   - [https://medium.com/@hayasnc/how-to-install-nodejs-and-npm-on-mac-using-homebrew-b33780287d8f](https://medium.com/@hayasnc/how-to-install-nodejs-and-npm-on-mac-using-homebrew-b33780287d8f)
 
-I already have Homebrew on my system, so I will proceed with NodeJS, NPM and Yarn  
+I already have Homebrew on my macOS system, so I will proceed with installing NodeJS, NPM and Yarn.  
   
 ```shell
 $ cd ~
@@ -219,6 +220,21 @@ $ brew info yarn
 
 <p align="center">
   <img width=auto height=auto src="screenshots/brew-info-yarn.png">
+</p>  
+
+On Linux (Debian/Ubuntu distributions), do the following.
+
+```shell
+$ cd ~
+$ sudo apt-get install -y build-essential
+$ curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash - && sudo apt-get install -y nodejs
+$ which node
+$ which npm
+$ node -v
+$ npm -v
+```
+<p align="center">
+  <img width=auto height=auto src="screenshots/linux-node-npm-versions.png">
 </p>  
 
 Ensure that TypeScript and its dependencies are installed.  
