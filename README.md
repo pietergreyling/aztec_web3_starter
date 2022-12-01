@@ -263,7 +263,7 @@ $ sudo npm install typescript --save-dev
 ```shell
 $ mkdir aztec
 $ cd aztec
-$ git clone https://github.com/critesjosh/aztec-sdk-starter.git
+$ git clone https://github.com/AztecProtocol/aztec-sdk-starter.git
 $ cd aztec-sdk-starter
 $ ls -al
 ```  
@@ -275,7 +275,9 @@ $ ls -al
 ---
 
 ### Install the SDK starter package dependencies
-    
+
+On macOS.
+
 ```shell
 $ yarn
 ```  
@@ -294,12 +296,28 @@ Be sure to pick the highest, most recent, version number of `@aztec/bridge-clien
   <img width=auto height=auto src="screenshots/aztec-sdk-starter-dependencies-03.png">
 </p>
 
+On Linux.
+
+<p align="center">
+  <img width=auto height=auto src="screenshots/linux-yarn-install1.png">
+</p>
+
+<p align="center">
+  <img width=auto height=auto src="screenshots/linux-yarn-install2.png">
+</p>
+
 Also make sure to periodically check for updates to the repository and dependencies.  
 
 ```shell
 $ git pull
 $ yarn upgrade --latest
 ```  
+
+Yarn upgrade on Linux.
+
+<p align="center">
+  <img width=auto height=auto src="screenshots/linux-yarn-upgrade1.png">
+</p>
 
 ---
 
