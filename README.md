@@ -1,8 +1,8 @@
-# Getting Started with a Web3 Aztec Protocol SDK Project
+# Getting Started with a Web 3 Aztec Protocol SDK Project
   
 ## Introduction
 
-### The Purpose of this Learning Path, or Developer Journey   
+### The Purpose of this Learning Path is to document, or log, a Developer Journey   
 The purpose of this tutorial repository is to provide a Web 3.0 Aztec Network getting started learning path for Web 2.0 developers who are new to working with Aztec technology and Web 3.0 in general.  
 
 There are several screenshots in this tutorial. They are not necessarily applicable to your own personal developer path and experience - they are a general guide.  
