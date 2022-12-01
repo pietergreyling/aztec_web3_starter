@@ -324,7 +324,7 @@ Yarn upgrade on Linux.
 ### Create and configure the SDK Environment File and run the SDK Setup Script
 
 Refer to the following section of the SDK starter repository documentation.
-- [https://github.com/critesjosh/aztec-sdk-starter#run](https://github.com/critesjosh/aztec-sdk-starter#run)
+- [https://github.com/AztecProtocol/aztec-sdk-starter#run](https://github.com/AztecProtocol/aztec-sdk-starter#run)
 
 Remain inside the root directory of your local (cloned) `aztec-sdk-starter` repository and copy the provided example environment script, `.env.example`, in order to create a `.env` file.
 
