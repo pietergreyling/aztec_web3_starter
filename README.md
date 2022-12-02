@@ -261,8 +261,8 @@ $ sudo npm install typescript --save-dev
 ### Clone the SDK starter repository from GitHub  
   
 ```shell
-$ mkdir aztec
-$ cd aztec
+$ mkdir AztecProtocol
+$ cd AztecProtocol
 $ git clone https://github.com/AztecProtocol/aztec-sdk-starter.git
 $ cd aztec-sdk-starter
 $ ls -al
