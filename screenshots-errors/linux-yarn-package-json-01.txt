@@ -1,0 +1,51 @@
+➜  aztec-sdk-starter git:(main) ✗ sudo yarn
+yarn install v1.22.19
+warning ../../../../package.json: No license field
+[1/4] Resolving packages...
+success Already up-to-date.
+Done in 1.81s.
+➜  aztec-sdk-starter git:(main) ✗ sudo yarn go      
+yarn run v1.22.19
+warning ../../../../package.json: No license field
+$ ts-node-esm src/index.ts
+(node:2915557) ExperimentalWarning: Importing JSON modules is an experimental feature. This feature could change at any time
+(Use `node --trace-warnings ...` to show where the warning was created)
+/home/pieter/_pieter_code_/github/AztecProtocol/aztec-sdk-starter/node_modules/ts-node/dist-raw/node-internal-modules-esm-resolve.js:366
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+CustomError: Cannot find module '/home/pieter/_pieter_code_/github/AztecProtocol/aztec-sdk-starter/node_modules/@aztec/bridge-clients/client-dest/typechain-types/factories/AceOfZkBridge__factory.js' imported from /home/pieter/_pieter_code_/github/AztecProtocol/aztec-sdk-starter/node_modules/@aztec/blockchain/dest/deploy/deployers/deploy_ace_of_zk.js
+    at finalizeResolution (/home/pieter/_pieter_code_/github/AztecProtocol/aztec-sdk-starter/node_modules/ts-node/dist-raw/node-internal-modules-esm-resolve.js:366:11)
+    at moduleResolve (/home/pieter/_pieter_code_/github/AztecProtocol/aztec-sdk-starter/node_modules/ts-node/dist-raw/node-internal-modules-esm-resolve.js:801:10)
+    at Object.defaultResolve (/home/pieter/_pieter_code_/github/AztecProtocol/aztec-sdk-starter/node_modules/ts-node/dist-raw/node-internal-modules-esm-resolve.js:912:11)
+    at /home/pieter/_pieter_code_/github/AztecProtocol/aztec-sdk-starter/node_modules/ts-node/src/esm.ts:218:35
+    at entrypointFallback (/home/pieter/_pieter_code_/github/AztecProtocol/aztec-sdk-starter/node_modules/ts-node/src/esm.ts:168:34)
+    at /home/pieter/_pieter_code_/github/AztecProtocol/aztec-sdk-starter/node_modules/ts-node/src/esm.ts:217:14
+    at addShortCircuitFlag (/home/pieter/_pieter_code_/github/AztecProtocol/aztec-sdk-starter/node_modules/ts-node/src/esm.ts:409:21)
+    at resolve (/home/pieter/_pieter_code_/github/AztecProtocol/aztec-sdk-starter/node_modules/ts-node/src/esm.ts:197:12)
+    at resolve (/home/pieter/_pieter_code_/github/AztecProtocol/aztec-sdk-starter/node_modules/ts-node/src/child/child-loader.ts:15:39)
+    at nextResolve (node:internal/modules/esm/loader:163:28)
+error Command failed with exit code 1.
+info Visit https://yarnpkg.com/en/docs/cli/run for documentation about this command.
+➜  aztec-sdk-starter git:(main) ✗ cat ./package.json
+{
+  "name": "aztec-sdk-starter",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "go": "ts-node-esm src/index.ts"
+  },
+  "dependencies": {
+    "@aztec/sdk": "^2.1.53",
+    "@ethersproject/providers": "^5.4.2",
+    "@ethersproject/wallet": "^5.6.0",
+    "dotenv": "^16.0.1",
+    "ethers": "^5.6.6",
+    "ts-node": "^10.7.0"
+  },
+  "resolutions": {
+    "@aztec/bridge-clients": "^0.1.74"
+  }
+}
+➜  aztec-sdk-starter git:(main) ✗
