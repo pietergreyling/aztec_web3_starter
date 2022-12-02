@@ -1,0 +1,15 @@
+➜  aztec-sdk-starter git:(main) sudo yarn   
+yarn install v1.22.19
+warning ../../../../package.json: No license field
+[1/4] Resolving packages...
+warning Resolution field "@aztec/bridge-clients@0.1.63" is incompatible with requested version "@aztec/bridge-clients@2.1.52"
+[2/4] Fetching packages...
+[3/4] Linking dependencies...
+warning "@aztec/bridge-clients > @typechain/ethers-v5@9.0.0" has unmet peer dependency "@ethersproject/bytes@^5.0.0".
+warning "@aztec/bridge-clients > @typechain/ethers-v5@9.0.0" has unmet peer dependency "@ethersproject/abi@^5.0.0".
+warning "@aztec/bridge-clients > @typechain/hardhat@4.0.0" has unmet peer dependency "lodash@^4.17.15".
+warning " > ts-node@10.9.1" has unmet peer dependency "@types/node@*".
+warning " > ts-node@10.9.1" has unmet peer dependency "typescript@>=2.7".
+[4/4] Building fresh packages...
+Done in 22.52s.
+➜  aztec-sdk-starter git:(main) 

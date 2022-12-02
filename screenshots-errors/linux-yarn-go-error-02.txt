@@ -1,0 +1,47 @@
+➜  aztec-sdk-starter git:(main) sudo yarn go                                                    
+yarn run v1.22.19
+warning ../../../../package.json: No license field
+$ ts-node-esm src/index.ts
+(node:2885373) ExperimentalWarning: Importing JSON modules is an experimental feature. This feature could change at any time
+(Use `node --trace-warnings ...` to show where the warning was created)
+  bb:create_vanilla_core_sdk creating pooled vanilla core sdk... +0ms
+  bb:wasm:main initial mem: 20 pages, 1.25mb. max mem: 8192 pages, 512mb +0ms
+  bb:worker_pool creating 8 workers... +0ms
+  bb:wasm:0 initial mem: 8192 pages, 512mb. max mem: 8192 pages, 512mb +0ms
+  bb:wasm:4 initial mem: 768 pages, 48mb. max mem: 8192 pages, 512mb +0ms
+  bb:wasm:3 initial mem: 768 pages, 48mb. max mem: 8192 pages, 512mb +0ms
+  bb:wasm:5 initial mem: 768 pages, 48mb. max mem: 8192 pages, 512mb +0ms
+  bb:wasm:1 initial mem: 768 pages, 48mb. max mem: 8192 pages, 512mb +0ms
+  bb:wasm:2 initial mem: 768 pages, 48mb. max mem: 8192 pages, 512mb +0ms
+  bb:wasm:6 initial mem: 768 pages, 48mb. max mem: 8192 pages, 512mb +0ms
+  bb:wasm:7 initial mem: 768 pages, 48mb. max mem: 8192 pages, 512mb +0ms
+  bb:worker_pool created workers: 7525ms +8s
+  bb:core_sdk initializing... +0ms
+  bb:core_sdk Rollup provider / SDK version mismatch. Hard refresh your browser or update SDK. +195ms
+  bb:core_sdk initialization failed:  ClientVersionMismatchError: Version mismatch with rollup provider. Error: Rollup provider / SDK version mismatch. Hard refresh your browser or update SDK.
+    at ServerRollupProvider.fetch (file:///home/pieter/_pieter_code_/github/AztecProtocol/aztec-sdk-starter/node_modules/@aztec/barretenberg/src/rollup_provider/server_rollup_provider.ts:170:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async ServerRollupProvider.getStatus (file:///home/pieter/_pieter_code_/github/AztecProtocol/aztec-sdk-starter/node_modules/@aztec/barretenberg/src/rollup_provider/server_rollup_provider.ts:97:22)
+    at async CoreSdk.getRemoteStatus (file:///home/pieter/_pieter_code_/github/AztecProtocol/aztec-sdk-starter/node_modules/@aztec/sdk/src/core_sdk/core_sdk.ts:255:12)
+    at async CoreSdk.init (file:///home/pieter/_pieter_code_/github/AztecProtocol/aztec-sdk-starter/node_modules/@aztec/sdk/src/core_sdk/core_sdk.ts:168:11)
+    at async createVanillaCoreSdk (file:///home/pieter/_pieter_code_/github/AztecProtocol/aztec-sdk-starter/node_modules/@aztec/sdk/src/core_sdk_flavours/vanilla_core_sdk/index.ts:89:3)
+    at async createPlainAztecSdk (file:///home/pieter/_pieter_code_/github/AztecProtocol/aztec-sdk-starter/node_modules/@aztec/sdk/src/aztec_sdk/create_aztec_sdk.ts:106:19)
+    at async createAztecSdk (file:///home/pieter/_pieter_code_/github/AztecProtocol/aztec-sdk-starter/node_modules/@aztec/sdk/src/aztec_sdk/create_aztec_sdk.ts:124:14)
+    at async setupSdk (file:///home/pieter/_pieter_code_/github/AztecProtocol/aztec-sdk-starter/src/index.ts:83:9)
+    at async main (file:///home/pieter/_pieter_code_/github/AztecProtocol/aztec-sdk-starter/src/index.ts:404:3) +1ms
+file:///home/pieter/_pieter_code_/github/AztecProtocol/aztec-sdk-starter/node_modules/@aztec/barretenberg/src/rollup_provider/server_rollup_provider.ts:170
+      throw new ClientVersionMismatchError(body.error);
+            ^
+ClientVersionMismatchError: Version mismatch with rollup provider. Error: Rollup provider / SDK version mismatch. Hard refresh your browser or update SDK.
+    at ServerRollupProvider.fetch (file:///home/pieter/_pieter_code_/github/AztecProtocol/aztec-sdk-starter/node_modules/@aztec/barretenberg/src/rollup_provider/server_rollup_provider.ts:170:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async ServerRollupProvider.getStatus (file:///home/pieter/_pieter_code_/github/AztecProtocol/aztec-sdk-starter/node_modules/@aztec/barretenberg/src/rollup_provider/server_rollup_provider.ts:97:22)
+    at async CoreSdk.getRemoteStatus (file:///home/pieter/_pieter_code_/github/AztecProtocol/aztec-sdk-starter/node_modules/@aztec/sdk/src/core_sdk/core_sdk.ts:255:12)
+    at async CoreSdk.init (file:///home/pieter/_pieter_code_/github/AztecProtocol/aztec-sdk-starter/node_modules/@aztec/sdk/src/core_sdk/core_sdk.ts:168:11)
+    at async createVanillaCoreSdk (file:///home/pieter/_pieter_code_/github/AztecProtocol/aztec-sdk-starter/node_modules/@aztec/sdk/src/core_sdk_flavours/vanilla_core_sdk/index.ts:89:3)
+    at async createPlainAztecSdk (file:///home/pieter/_pieter_code_/github/AztecProtocol/aztec-sdk-starter/node_modules/@aztec/sdk/src/aztec_sdk/create_aztec_sdk.ts:106:19)
+    at async createAztecSdk (file:///home/pieter/_pieter_code_/github/AztecProtocol/aztec-sdk-starter/node_modules/@aztec/sdk/src/aztec_sdk/create_aztec_sdk.ts:124:14)
+    at async setupSdk (file:///home/pieter/_pieter_code_/github/AztecProtocol/aztec-sdk-starter/src/index.ts:83:9)
+    at async main (file:///home/pieter/_pieter_code_/github/AztecProtocol/aztec-sdk-starter/src/index.ts:404:3)
+error Command failed with exit code 1.
+info Visit https://yarnpkg.com/en/docs/cli/run for documentation about this command.

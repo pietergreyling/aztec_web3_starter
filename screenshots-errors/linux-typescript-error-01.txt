@@ -1,0 +1,29 @@
+➜  aztec-sdk-starter git:(main) sudo npm install ts-node --save-dev
+[sudo] password for pieter: 
+npm WARN idealTree Removing dependencies.ts-node in favor of devDependencies.ts-node
+npm WARN deprecated buffer-browserify@0.2.5: Package not maintained. Recent browserify uses https://github.com/feross/buffer
+npm WARN deprecated @npmcli/move-file@1.1.2: This functionality has been moved to @npmcli/fs
+
+added 669 packages, and audited 670 packages in 53s
+
+138 packages are looking for funding
+  run `npm fund` for details
+
+7 high severity vulnerabilities
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
+➜  aztec-sdk-starter git:(main) ✗ sudo npm install typescript -g
+
+changed 1 package in 322ms
+➜  aztec-sdk-starter git:(main) ✗ sudo npm install typescript --save-dev
+npm ERR! code ETARGET
+npm ERR! notarget No matching version found for @aztec/bridge-clients@2.1.52.
+npm ERR! notarget In most cases you or one of your dependencies are requesting
+npm ERR! notarget a package version that doesn't exist.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /root/.npm/_logs/2022-12-02T13_45_04_257Z-debug-0.log
+➜  aztec-sdk-starter git:(main) ✗ 
