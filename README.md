@@ -238,6 +238,20 @@ $ npm -v
   <img width=auto height=auto src="screenshots/linux-node-npm-versions.png">
 </p>  
 
+As recommended by [the official Yarn documentation](https://yarnpkg.com/getting-started/install), install and activate `yarn` using `corepack`.
+
+```shell
+$ sudo npm i -g corepack
+$ which corepack
+$ corepack enable
+$ yarn set version stable
+$ which yarn             
+$ yarn --version
+```
+<p align="center">
+  <img width=auto height=auto src="screenshots/linux-corepack-yarn-install.png">
+</p>  
+
 Ensure that TypeScript and its dependencies are installed.  
 
 ```shell
