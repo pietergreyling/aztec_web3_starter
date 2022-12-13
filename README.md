@@ -238,12 +238,13 @@ $ npm -v
   <img width=auto height=auto src="screenshots/linux-node-npm-versions.png">
 </p>  
 
-As recommended by [the official Yarn documentation](https://yarnpkg.com/getting-started/install), install and activate `yarn` using `corepack`.
+As recommended by [the official Yarn documentation](https://yarnpkg.com/getting-started/install), install and activate `yarn` using [`corepack`](https://nodejs.org/dist/latest/docs/api/corepack.html).
 
 ```shell
 $ sudo npm i -g corepack
 $ which corepack
 $ corepack enable
+$ corepack prepare yarn@stable --activate
 $ yarn set version stable
 $ which yarn             
 $ yarn --version
@@ -251,6 +252,12 @@ $ yarn --version
 <p align="center">
   <img width=auto height=auto src="screenshots/linux-corepack-yarn-install.png">
 </p>  
+
+Do the following if it becomes necessary to remove/uninstall `yarn` with `corepack`:
+
+```shell
+$ sudo corepack disable yarn
+```
 
 Ensure that TypeScript and its dependencies are installed.  
 
@@ -327,7 +334,7 @@ Also make sure to periodically check for updates to the repository and dependenc
 
 ```shell
 $ git pull
-$ yarn upgrade --latest
+$ yarn up
 ```  
 
 Yarn upgrade on Linux.
